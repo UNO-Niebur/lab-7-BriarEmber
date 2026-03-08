@@ -1,3 +1,6 @@
+#Name: Devyn Conaway
+#Assignment: Lab 7
+#Date: 3/7/2026
 #NumberTests.py
 
 def isThreeOrFive(n):

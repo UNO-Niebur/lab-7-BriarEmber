@@ -1,3 +1,7 @@
+#Name: Devyn Conaway
+#Assignment: Lab 7
+#Date: 3/7/2026
+
 #Problem3.py
 #Euler Problem 3
 

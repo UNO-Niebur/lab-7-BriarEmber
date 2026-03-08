@@ -1,3 +1,7 @@
+#Name:Devyn Conaway
+#Assignment:Lab 7
+#Date:3/7/2026
+
 #Problem7.py
 #Euler Problem 10
 #The sum of primes below 10 is 2 + 3 + 5 + 7 = 17. Find the sum of all primes below 2,000,000
